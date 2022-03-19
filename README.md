@@ -1,6 +1,4 @@
-# NGSP
-
-The Neurally-Guided Shape Parser: Grammar-based Labeling of 3D Shape Regions with Approximate Inference
+# The Neurally-Guided Shape Parser: Grammar-based Labeling of 3D Shape Regions with Approximate Inference
 
 CVPR 2022 
 
