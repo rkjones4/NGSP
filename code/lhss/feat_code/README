@@ -1,0 +1,4 @@
+Please go to https://cs.stanford.edu/~ericyi/project_page/hier_seg/ to download code.
+
+Put Code/Matlab/extract_face_feat/ into this directory, named /extract_face_feat/
+Put ExternalTools/ into this directory, named ExternalTools/

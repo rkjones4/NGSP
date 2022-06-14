@@ -1,0 +1,5 @@
+Code based off of implementation found at https://cs.stanford.edu/~ericyi/project_page/hier_seg/
+
+pygco is a graph cuts library, see: https://github.com/Borda/pyGCO
+
+Additional code must be added to the feat_code directory, following the README there.
